@@ -1,2 +1,3 @@
-# blog-django
-Blog - Django - Basic Configuration
+# Blog - Django 
+
+*Basic Configuration of a Blog made in Django*

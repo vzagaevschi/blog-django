@@ -6,5 +6,5 @@ class MainView(View):
     def get(self, request, *args, **kwargs):
         return render(
             request,
-            'blog/index.html'
+            'blog/home.html'
         )
